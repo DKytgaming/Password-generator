@@ -7,7 +7,9 @@ password Generator
 ![image](https://user-images.githubusercontent.com/101945037/232111410-a7efa95d-9f42-4d3b-acfd-f6f9f5169793.png)
 
 
+Try it here:
 
+http://password.dknetwork.gq/
 
 
 !This program is not written by me 
