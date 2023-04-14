@@ -3,7 +3,7 @@ password Generator
 
 Try it here:
 
-http://password.dknetwork.gq/
+https://password.dknetwork.gq/
 
 ![image](https://user-images.githubusercontent.com/101945037/232111367-aa9f44f4-83b7-4ad6-a36e-1442390a6472.png)
 
