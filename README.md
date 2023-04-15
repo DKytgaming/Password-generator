@@ -1,9 +1,11 @@
 # Password
 password Generator
 
-#Try it here:
+# Try it here
 
 https://password.dknetwork.gq/
+
+# Preview
 
 ![image](https://user-images.githubusercontent.com/101945037/232111367-aa9f44f4-83b7-4ad6-a36e-1442390a6472.png)
 
