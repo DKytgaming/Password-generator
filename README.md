@@ -20,4 +20,6 @@ password Generator
 
 Full credits to
 
-https://codepen.io/dev_loop/pen/vYYxvbz
+    https://codepen.io/dev_loop/pen/vYYxvbz
+    https://github.com/devloop01/password-generator
+
