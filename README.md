@@ -3,7 +3,7 @@ password Generator
 
 # Try it here
 
-    https://password.dknetwork.gq
+    [Password Generator](https://password-cybrixin.netlify.app/)
 
 # Preview
 
