@@ -13,6 +13,9 @@ body {
   align-items: center;
 }
 
+img{
+  display: flex;
+}
 button {
   border: 0;
   outline: 0;
