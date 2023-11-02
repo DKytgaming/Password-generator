@@ -3,7 +3,7 @@ password Generator
 
 # Try it here
 
-    [Password Generator](https://password-cybrixin.netlify.app/)
+[Password Generator](https://password-cybrixin.netlify.app/)
 
 # Preview
 
